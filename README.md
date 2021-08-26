@@ -1,1 +1,2 @@
-# aws-sample
+- python (flask)
+- AWS Serverless Application Model
